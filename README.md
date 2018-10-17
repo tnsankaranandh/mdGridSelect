@@ -1,5 +1,4 @@
 # mdGridSelect
-===========
 
 Functionally same as Grid-Select , but this is more compatible with Material Design.
 Basic functionality of select box with the set of divs and fixed header, so that user can scroll through the data alone providing ease of usability.
